@@ -1,0 +1,12 @@
+C:\Users\m\Documents\vb.net\calculatrice\ma calculatrice\ma calculatrice\bin\Debug\ma calculatrice.exe.config
+C:\Users\m\Documents\vb.net\calculatrice\ma calculatrice\ma calculatrice\bin\Debug\ma calculatrice.exe
+C:\Users\m\Documents\vb.net\calculatrice\ma calculatrice\ma calculatrice\bin\Debug\ma calculatrice.pdb
+C:\Users\m\Documents\vb.net\calculatrice\ma calculatrice\ma calculatrice\bin\Debug\ma calculatrice.xml
+C:\Users\m\Documents\vb.net\calculatrice\ma calculatrice\ma calculatrice\obj\Debug\ma calculatrice.vbproj.AssemblyReference.cache
+C:\Users\m\Documents\vb.net\calculatrice\ma calculatrice\ma calculatrice\obj\Debug\ma_calculatrice.Form1.resources
+C:\Users\m\Documents\vb.net\calculatrice\ma calculatrice\ma calculatrice\obj\Debug\ma_calculatrice.Resources.resources
+C:\Users\m\Documents\vb.net\calculatrice\ma calculatrice\ma calculatrice\obj\Debug\ma calculatrice.vbproj.GenerateResource.cache
+C:\Users\m\Documents\vb.net\calculatrice\ma calculatrice\ma calculatrice\obj\Debug\ma calculatrice.vbproj.CoreCompileInputs.cache
+C:\Users\m\Documents\vb.net\calculatrice\ma calculatrice\ma calculatrice\obj\Debug\ma calculatrice.exe
+C:\Users\m\Documents\vb.net\calculatrice\ma calculatrice\ma calculatrice\obj\Debug\ma calculatrice.xml
+C:\Users\m\Documents\vb.net\calculatrice\ma calculatrice\ma calculatrice\obj\Debug\ma calculatrice.pdb
